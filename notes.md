@@ -163,3 +163,4 @@
 - 2026-10-17: Improve docs
 - 2026-01-18: Improve docs
 - 2026-10-23: Improve docs
+- 2026-12-12: Update notes
