@@ -175,3 +175,4 @@
 - 2026-02-06: Add detail
 - 2026-08-25: Small fix
 - 2026-02-24: Small fix
+- 2026-12-15: Polish docs
