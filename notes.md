@@ -169,3 +169,4 @@
 - 2026-01-07: Refine text
 - 2026-06-19: Adjust content
 - 2026-02-14: Expand section
+- 2026-12-09: Polish docs
