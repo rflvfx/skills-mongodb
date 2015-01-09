@@ -70,3 +70,4 @@
 - 2015-10-07: Clarify section
 - 2015-05-17: Add remark
 - 2015-12-15: Add detail
+- 2015-01-09: Minor update
