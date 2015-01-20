@@ -34,3 +34,4 @@
 - 2022-02-15: Update documentation
 - 2015-04-11: Add detail
 - 2015-10-21: Add note
+- 2015-01-20: Fix example
