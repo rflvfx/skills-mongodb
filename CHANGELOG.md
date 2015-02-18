@@ -50,3 +50,4 @@
 - 2015-03-07: Adjust content
 - 2015-06-04: Review content
 - 2015-01-28: Adjust content
+- 2015-02-18: Add detail
