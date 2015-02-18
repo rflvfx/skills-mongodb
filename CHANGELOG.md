@@ -60,3 +60,4 @@
 - 2015-07-09: Polish docs
 - 2015-05-16: Adjust content
 - 2015-10-23: Typo fix
+- 2015-02-18: Typo fix
