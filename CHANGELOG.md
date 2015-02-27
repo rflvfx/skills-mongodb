@@ -55,3 +55,4 @@
 - 2015-04-03: Typo fix
 - 2015-08-19: Minor update
 - 2015-10-23: Add detail
+- 2015-02-27: Typo fix
