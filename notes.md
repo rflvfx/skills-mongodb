@@ -9,3 +9,4 @@
 - 2015-05-09: Improve docs
 - 2015-03-14: Add detail
 - 2015-04-17: Add detail
+- 2015-03-11: Small fix
