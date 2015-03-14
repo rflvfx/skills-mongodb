@@ -7,3 +7,4 @@
 - 2015-01-13: Add remark
 - 2015-03-20: Add detail
 - 2015-05-09: Improve docs
+- 2015-03-14: Add detail
