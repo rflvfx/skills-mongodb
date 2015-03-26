@@ -44,3 +44,4 @@
 - 2015-01-25: Adjust content
 - 2015-04-23: Update guide
 - 2015-10-10: Small fix
+- 2015-03-26: Refine text
