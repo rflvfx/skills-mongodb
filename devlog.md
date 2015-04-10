@@ -4,3 +4,4 @@
 - 2022-08-10 — Update notes
 - 2022-11-15 — Refine exercises
 - 2023-11-08 — Fix examples
+- 2015-04-10 - Improve explanation
