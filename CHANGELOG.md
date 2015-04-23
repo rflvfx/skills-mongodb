@@ -42,3 +42,4 @@
 - 2015-06-27: Fix example
 - 2015-05-16: Improve docs
 - 2015-01-25: Adjust content
+- 2015-04-23: Update guide
