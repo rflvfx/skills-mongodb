@@ -65,3 +65,4 @@
 - 2015-12-26: Typo fix
 - 2015-02-25: Refine text
 - 2015-06-04: Clarify section
+- 2015-05-11: Refine text
