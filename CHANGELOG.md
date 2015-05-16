@@ -40,3 +40,4 @@
 - 2015-08-01: Review content
 - 2015-11-24: Typo fix
 - 2015-06-27: Fix example
+- 2015-05-16: Improve docs
