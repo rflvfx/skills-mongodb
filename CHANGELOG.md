@@ -64,3 +64,4 @@
 - 2015-08-01: Fix example
 - 2015-12-26: Typo fix
 - 2015-02-25: Refine text
+- 2015-06-04: Clarify section
