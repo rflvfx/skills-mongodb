@@ -11,3 +11,4 @@
 - 2015-04-17: Add detail
 - 2015-03-11: Small fix
 - 2015-08-23: Small fix
+- 2015-07-03: Polish docs
