@@ -61,3 +61,4 @@
 - 2015-05-16: Adjust content
 - 2015-10-23: Typo fix
 - 2015-02-18: Typo fix
+- 2015-08-01: Fix example
