@@ -67,3 +67,4 @@
 - 2015-06-04: Clarify section
 - 2015-05-11: Refine text
 - 2015-10-11: Clarify section
+- 2015-10-07: Clarify section
