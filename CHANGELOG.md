@@ -59,3 +59,4 @@
 - 2015-10-01: Minor update
 - 2015-07-09: Polish docs
 - 2015-05-16: Adjust content
+- 2015-10-23: Typo fix
