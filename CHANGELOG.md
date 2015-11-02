@@ -46,3 +46,4 @@
 - 2015-10-10: Small fix
 - 2015-03-26: Refine text
 - 2015-02-09: Refine text
+- 2015-11-02: Refine text
