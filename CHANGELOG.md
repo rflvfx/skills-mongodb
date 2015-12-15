@@ -69,3 +69,4 @@
 - 2015-10-11: Clarify section
 - 2015-10-07: Clarify section
 - 2015-05-17: Add remark
+- 2015-12-15: Add detail
