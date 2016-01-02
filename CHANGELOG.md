@@ -73,3 +73,4 @@
 - 2015-01-09: Minor update
 - 2015-09-15: Minor update
 - 2016-10-15: Clarify section
+- 2016-01-02: Polish docs
