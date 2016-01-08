@@ -102,3 +102,4 @@
 - 2016-10-01: Polish docs
 - 2016-04-12: Refine text
 - 2016-12-05: Improve docs
+- 2016-01-08: Add detail
