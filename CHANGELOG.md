@@ -105,3 +105,4 @@
 - 2016-01-08: Add detail
 - 2016-01-16: Minor update
 - 2016-04-02: Add note
+- 2016-01-16: Expand section
