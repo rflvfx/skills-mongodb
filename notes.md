@@ -20,3 +20,4 @@
 - 2016-12-21: Adjust content
 - 2016-03-22: Update guide
 - 2016-01-23: Add note
+- 2016-02-25: Clarify section
