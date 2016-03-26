@@ -25,3 +25,4 @@
 - 2016-11-12: Minor update
 - 2016-07-26: Review content
 - 2016-10-02: Typo fix
+- 2016-03-26: Add note
