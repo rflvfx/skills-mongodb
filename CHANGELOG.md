@@ -93,3 +93,4 @@
 - 2016-09-14: Refine text
 - 2016-09-14: Typo fix
 - 2016-07-25: Improve docs
+- 2016-04-04: Typo fix
