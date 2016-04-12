@@ -100,3 +100,4 @@
 - 2016-07-15: Refine text
 - 2016-01-03: Add remark
 - 2016-10-01: Polish docs
+- 2016-04-12: Refine text
