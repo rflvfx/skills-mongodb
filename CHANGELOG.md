@@ -75,3 +75,4 @@
 - 2016-10-15: Clarify section
 - 2016-01-02: Polish docs
 - 2016-07-22: Update notes
+- 2016-05-07: Expand section
