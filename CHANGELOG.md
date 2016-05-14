@@ -78,3 +78,4 @@
 - 2016-05-07: Expand section
 - 2016-09-24: Improve docs
 - 2016-09-22: Fix example
+- 2016-05-14: Typo fix
