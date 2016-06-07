@@ -109,3 +109,4 @@
 - 2016-05-15: Polish docs
 - 2016-04-26: Update guide
 - 2016-09-11: Typo fix
+- 2016-06-07: Adjust content
