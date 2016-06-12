@@ -6,3 +6,4 @@
 - 2015-09-07: Document change streams
 - 2016-02-11: Review ttl indexes section
 - 2016-03-09: Document covered queries
+- 2016-06-12: Add write concerns examples
