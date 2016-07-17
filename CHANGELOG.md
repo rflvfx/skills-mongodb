@@ -87,3 +87,4 @@
 - 2016-06-15: Fix example
 - 2016-12-19: Minor update
 - 2016-10-08: Minor update
+- 2016-07-17: Update notes
