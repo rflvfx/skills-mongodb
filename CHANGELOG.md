@@ -92,3 +92,4 @@
 - 2016-08-07: Clarify section
 - 2016-09-14: Refine text
 - 2016-09-14: Typo fix
+- 2016-07-25: Improve docs
