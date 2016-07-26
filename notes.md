@@ -23,3 +23,4 @@
 - 2016-02-25: Clarify section
 - 2016-12-12: Clarify section
 - 2016-11-12: Minor update
+- 2016-07-26: Review content
