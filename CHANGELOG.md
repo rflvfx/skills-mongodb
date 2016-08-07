@@ -89,3 +89,4 @@
 - 2016-10-08: Minor update
 - 2016-07-17: Update notes
 - 2016-08-02: Add note
+- 2016-08-07: Clarify section
