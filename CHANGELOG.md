@@ -99,3 +99,4 @@
 - 2016-01-24: Update guide
 - 2016-07-15: Refine text
 - 2016-01-03: Add remark
+- 2016-10-01: Polish docs
