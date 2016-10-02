@@ -24,3 +24,4 @@
 - 2016-12-12: Clarify section
 - 2016-11-12: Minor update
 - 2016-07-26: Review content
+- 2016-10-02: Typo fix
