@@ -26,3 +26,4 @@
 - 2016-07-26: Review content
 - 2016-10-02: Typo fix
 - 2016-03-26: Add note
+- 2016-10-16: Expand section
