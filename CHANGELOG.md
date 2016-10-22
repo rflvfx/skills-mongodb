@@ -82,3 +82,4 @@
 - 2016-05-09: Small fix
 - 2016-05-21: Add detail
 - 2016-04-12: Refine text
+- 2016-10-22: Expand section
