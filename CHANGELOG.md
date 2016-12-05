@@ -101,3 +101,4 @@
 - 2016-01-03: Add remark
 - 2016-10-01: Polish docs
 - 2016-04-12: Refine text
+- 2016-12-05: Improve docs
