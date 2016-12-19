@@ -85,3 +85,4 @@
 - 2016-10-22: Expand section
 - 2016-05-02: Minor update
 - 2016-06-15: Fix example
+- 2016-12-19: Minor update
