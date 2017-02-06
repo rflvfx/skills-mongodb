@@ -133,3 +133,4 @@
 - 2017-11-09: Expand section
 - 2017-06-01: Minor update
 - 2017-12-02: Update guide
+- 2017-02-06: Update guide
