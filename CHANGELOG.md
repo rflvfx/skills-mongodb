@@ -137,3 +137,4 @@
 - 2017-11-16: Update notes
 - 2017-07-09: Adjust content
 - 2017-08-02: Add remark
+- 2017-02-08: Clarify section
