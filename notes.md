@@ -35,3 +35,4 @@
 - 2017-05-27: Update guide
 - 2017-04-03: Adjust content
 - 2017-06-03: Adjust content
+- 2017-02-14: Add note
