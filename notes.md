@@ -29,3 +29,4 @@
 - 2016-10-16: Expand section
 - 2016-11-04: Refine text
 - 2016-11-01: Refine text
+- 2017-02-16: Improve docs
