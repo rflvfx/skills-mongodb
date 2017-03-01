@@ -154,3 +154,4 @@
 - 2017-05-20: Small fix
 - 2017-07-15: Polish docs
 - 2017-10-02: Refine text
+- 2017-03-01: Minor update
