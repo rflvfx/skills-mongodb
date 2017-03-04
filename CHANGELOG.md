@@ -125,3 +125,4 @@
 - 2017-05-14: Typo fix
 - 2017-02-01: Clarify section
 - 2017-03-10: Review content
+- 2017-03-04: Add detail
