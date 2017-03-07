@@ -38,3 +38,4 @@
 - 2017-02-14: Add note
 - 2017-08-04: Add detail
 - 2017-01-16: Minor update
+- 2017-03-07: Update guide
