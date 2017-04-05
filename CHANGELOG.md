@@ -128,3 +128,4 @@
 - 2017-03-04: Add detail
 - 2017-11-15: Polish docs
 - 2017-04-22: Add note
+- 2017-04-05: Update guide
