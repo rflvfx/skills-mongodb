@@ -113,3 +113,4 @@
 - 2016-08-10: Polish docs
 - 2016-11-23: Refine text
 - 2016-09-11: Improve docs
+- 2017-05-07: Clarify section
