@@ -122,3 +122,4 @@
 - 2017-06-21: Add remark
 - 2017-10-22: Adjust content
 - 2017-01-25: Fix example
+- 2017-05-14: Typo fix
