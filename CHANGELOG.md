@@ -151,3 +151,4 @@
 - 2017-06-04: Minor update
 - 2017-10-20: Expand section
 - 2017-02-04: Update notes
+- 2017-05-20: Small fix
