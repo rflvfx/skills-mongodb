@@ -138,3 +138,4 @@
 - 2017-07-09: Adjust content
 - 2017-08-02: Add remark
 - 2017-02-08: Clarify section
+- 2017-05-26: Clarify section
