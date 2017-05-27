@@ -32,3 +32,4 @@
 - 2017-02-16: Improve docs
 - 2017-10-09: Fix example
 - 2017-01-21: Adjust content
+- 2017-05-27: Update guide
