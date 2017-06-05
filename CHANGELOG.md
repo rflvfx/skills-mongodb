@@ -141,3 +141,4 @@
 - 2017-05-26: Clarify section
 - 2017-11-25: Review content
 - 2017-02-12: Fix example
+- 2017-06-05: Update guide
