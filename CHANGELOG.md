@@ -119,3 +119,4 @@
 - 2017-09-07: Update guide
 - 2017-08-28: Add detail
 - 2017-07-23: Refine text
+- 2017-06-21: Add remark
