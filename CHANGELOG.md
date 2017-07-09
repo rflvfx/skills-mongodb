@@ -135,3 +135,4 @@
 - 2017-12-02: Update guide
 - 2017-02-06: Update guide
 - 2017-11-16: Update notes
+- 2017-07-09: Adjust content
