@@ -8,3 +8,4 @@
 - 2016-03-09: Document covered queries
 - 2016-06-12: Add write concerns examples
 - 2017-03-06: Add bulk writes notes
+- 2017-07-26: Add text indexes notes
