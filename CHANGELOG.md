@@ -129,3 +129,4 @@
 - 2017-11-15: Polish docs
 - 2017-04-22: Add note
 - 2017-04-05: Update guide
+- 2017-07-28: Minor update
