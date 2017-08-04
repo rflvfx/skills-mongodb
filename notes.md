@@ -36,3 +36,4 @@
 - 2017-04-03: Adjust content
 - 2017-06-03: Adjust content
 - 2017-02-14: Add note
+- 2017-08-04: Add detail
