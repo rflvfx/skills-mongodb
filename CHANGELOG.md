@@ -149,3 +149,4 @@
 - 2017-10-07: Add remark
 - 2017-06-28: Polish docs
 - 2017-06-04: Minor update
+- 2017-10-20: Expand section
