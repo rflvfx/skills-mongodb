@@ -142,3 +142,4 @@
 - 2017-11-25: Review content
 - 2017-02-12: Fix example
 - 2017-06-05: Update guide
+- 2017-10-26: Refine text
