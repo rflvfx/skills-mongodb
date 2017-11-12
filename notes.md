@@ -39,3 +39,4 @@
 - 2017-08-04: Add detail
 - 2017-01-16: Minor update
 - 2017-03-07: Update guide
+- 2017-11-12: Review content
