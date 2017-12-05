@@ -143,3 +143,4 @@
 - 2017-02-12: Fix example
 - 2017-06-05: Update guide
 - 2017-10-26: Refine text
+- 2017-12-05: Polish docs
