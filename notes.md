@@ -52,3 +52,4 @@
 - 2018-02-07: Small fix
 - 2018-11-14: Add note
 - 2018-12-06: Update notes
+- 2018-01-03: Adjust content
