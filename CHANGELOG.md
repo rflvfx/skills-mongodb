@@ -190,3 +190,4 @@
 - 2018-09-06: Improve docs
 - 2018-11-13: Minor update
 - 2018-03-13: Typo fix
+- 2018-01-05: Improve docs
