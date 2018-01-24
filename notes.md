@@ -44,3 +44,4 @@
 - 2018-01-25: Expand section
 - 2018-06-17: Add remark
 - 2018-07-01: Clarify section
+- 2018-01-24: Add remark
