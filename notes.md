@@ -41,3 +41,4 @@
 - 2017-03-07: Update guide
 - 2017-11-12: Review content
 - 2017-01-11: Refine text
+- 2018-01-25: Expand section
