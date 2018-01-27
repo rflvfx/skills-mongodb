@@ -165,3 +165,4 @@
 - 2018-05-23: Update guide
 - 2018-05-25: Add detail
 - 2018-10-20: Update guide
+- 2018-01-27: Typo fix
