@@ -47,3 +47,4 @@
 - 2018-01-24: Add remark
 - 2018-01-12: Add detail
 - 2018-10-04: Polish docs
+- 2018-02-28: Add note
