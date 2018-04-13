@@ -175,3 +175,4 @@
 - 2018-08-12: Minor update
 - 2018-01-07: Expand section
 - 2018-03-01: Adjust content
+- 2018-04-13: Typo fix
