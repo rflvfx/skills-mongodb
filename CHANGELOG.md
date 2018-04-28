@@ -180,3 +180,4 @@
 - 2018-02-05: Small fix
 - 2018-05-04: Typo fix
 - 2018-12-25: Add remark
+- 2018-04-28: Fix example
