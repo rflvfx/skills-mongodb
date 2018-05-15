@@ -56,3 +56,4 @@
 - 2018-04-13: Refine text
 - 2018-07-01: Clarify section
 - 2018-03-26: Add detail
+- 2018-05-15: Fix example
