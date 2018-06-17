@@ -42,3 +42,4 @@
 - 2017-11-12: Review content
 - 2017-01-11: Refine text
 - 2018-01-25: Expand section
+- 2018-06-17: Add remark
