@@ -43,3 +43,4 @@
 - 2017-01-11: Refine text
 - 2018-01-25: Expand section
 - 2018-06-17: Add remark
+- 2018-07-01: Clarify section
