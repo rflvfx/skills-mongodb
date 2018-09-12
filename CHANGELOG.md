@@ -160,3 +160,4 @@
 - 2018-04-06: Add remark
 - 2018-12-02: Refine text
 - 2018-09-10: Add remark
+- 2018-09-12: Typo fix
