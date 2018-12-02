@@ -158,3 +158,4 @@
 - 2018-02-19: Small fix
 - 2018-11-10: Add remark
 - 2018-04-06: Add remark
+- 2018-12-02: Refine text
