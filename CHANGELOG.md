@@ -167,3 +167,4 @@
 - 2018-10-20: Update guide
 - 2018-01-27: Typo fix
 - 2018-11-23: Polish docs
+- 2018-12-19: Add detail
