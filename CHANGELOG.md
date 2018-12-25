@@ -179,3 +179,4 @@
 - 2018-06-16: Refine text
 - 2018-02-05: Small fix
 - 2018-05-04: Typo fix
+- 2018-12-25: Add remark
