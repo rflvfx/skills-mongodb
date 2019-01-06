@@ -222,3 +222,4 @@
 - 2019-08-18: Typo fix
 - 2019-12-01: Small fix
 - 2019-05-16: Improve docs
+- 2019-01-06: Typo fix
