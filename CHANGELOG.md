@@ -202,3 +202,4 @@
 - 2019-09-12: Add detail
 - 2019-06-25: Expand section
 - 2019-12-18: Update guide
+- 2019-02-03: Add note
