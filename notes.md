@@ -59,3 +59,4 @@
 - 2018-05-15: Fix example
 - 2018-06-18: Clarify section
 - 2018-07-06: Minor update
+- 2019-05-11: Minor update
