@@ -198,3 +198,4 @@
 - 2019-11-05: Add note
 - 2019-04-18: Minor update
 - 2019-12-23: Update guide
+- 2019-05-20: Clarify section
