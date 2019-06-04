@@ -234,3 +234,4 @@
 - 2019-07-05: Polish docs
 - 2019-01-17: Improve docs
 - 2019-06-19: Typo fix
+- 2019-06-04: Polish docs
