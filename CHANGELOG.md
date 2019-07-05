@@ -231,3 +231,4 @@
 - 2019-05-16: Expand section
 - 2019-07-07: Fix example
 - 2019-11-23: Review content
+- 2019-07-05: Polish docs
