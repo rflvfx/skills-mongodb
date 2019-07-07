@@ -211,3 +211,4 @@
 - 2019-06-10: Review content
 - 2019-10-03: Clarify section
 - 2019-05-04: Polish docs
+- 2019-07-07: Update notes
