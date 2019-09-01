@@ -12,3 +12,4 @@
 - 2017-12-28: Improve schema validation coverage
 - 2018-03-20: Document lookup pipelines
 - 2019-05-09: Add aggregation stages examples
+- 2019-09-01: Add change streams notes
