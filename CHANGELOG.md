@@ -199,3 +199,4 @@
 - 2019-04-18: Minor update
 - 2019-12-23: Update guide
 - 2019-05-20: Clarify section
+- 2019-09-12: Add detail
