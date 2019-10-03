@@ -209,3 +209,4 @@
 - 2019-07-19: Add remark
 - 2019-04-04: Review content
 - 2019-06-10: Review content
+- 2019-10-03: Clarify section
