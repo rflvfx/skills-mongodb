@@ -66,3 +66,4 @@
 - 2019-07-13: Add remark
 - 2019-03-25: Polish docs
 - 2019-06-23: Update notes
+- 2019-10-04: Review content
