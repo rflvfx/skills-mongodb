@@ -220,3 +220,4 @@
 - 2019-08-21: Fix example
 - 2019-04-16: Update notes
 - 2019-08-18: Typo fix
+- 2019-12-01: Small fix
