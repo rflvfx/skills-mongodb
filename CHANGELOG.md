@@ -238,3 +238,4 @@
 - 2020-12-04: Improve docs
 - 2020-06-02: Expand section
 - 2020-02-14: Update guide
+- 2020-01-14: Refine text
