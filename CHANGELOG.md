@@ -249,3 +249,4 @@
 - 2020-01-25: Adjust content
 - 2020-06-03: Add note
 - 2020-05-12: Update notes
+- 2020-01-17: Minor update
