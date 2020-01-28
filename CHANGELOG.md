@@ -13,3 +13,4 @@
 - 2018-03-20: Document lookup pipelines
 - 2019-05-09: Add aggregation stages examples
 - 2019-09-01: Add change streams notes
+- 2020-01-28: Document ttl indexes
