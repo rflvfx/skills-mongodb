@@ -70,3 +70,4 @@
 - 2019-09-03: Polish docs
 - 2019-07-27: Refine text
 - 2020-12-22: Improve docs
+- 2020-03-10: Adjust content
