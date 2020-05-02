@@ -256,3 +256,4 @@
 - 2020-05-08: Add detail
 - 2020-02-09: Add detail
 - 2020-09-06: Improve docs
+- 2020-05-02: Typo fix
