@@ -253,3 +253,4 @@
 - 2020-09-01: Expand section
 - 2020-07-10: Small fix
 - 2020-03-07: Fix example
+- 2020-05-08: Add detail
