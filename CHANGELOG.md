@@ -243,3 +243,4 @@
 - 2020-05-12: Fix example
 - 2020-02-10: Fix example
 - 2020-04-12: Refine text
+- 2020-05-21: Add note
