@@ -75,3 +75,4 @@
 - 2020-11-16: Add remark
 - 2020-12-15: Expand section
 - 2020-12-06: Add remark
+- 2020-08-18: Clarify section
