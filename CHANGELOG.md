@@ -258,3 +258,4 @@
 - 2020-09-06: Improve docs
 - 2020-05-02: Typo fix
 - 2020-07-13: Update notes
+- 2020-08-25: Add remark
