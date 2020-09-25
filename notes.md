@@ -78,3 +78,4 @@
 - 2020-08-18: Clarify section
 - 2020-05-12: Typo fix
 - 2020-01-19: Update guide
+- 2020-09-25: Update notes
