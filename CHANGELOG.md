@@ -261,3 +261,4 @@
 - 2020-08-25: Add remark
 - 2020-07-15: Expand section
 - 2020-10-07: Typo fix
+- 2020-10-20: Review content
