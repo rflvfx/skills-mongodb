@@ -71,3 +71,4 @@
 - 2019-07-27: Refine text
 - 2020-12-22: Improve docs
 - 2020-03-10: Adjust content
+- 2020-11-05: Fix example
