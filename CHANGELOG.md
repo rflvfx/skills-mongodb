@@ -262,3 +262,4 @@
 - 2020-07-15: Expand section
 - 2020-10-07: Typo fix
 - 2020-10-20: Review content
+- 2020-12-03: Improve docs
