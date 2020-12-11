@@ -265,3 +265,4 @@
 - 2020-12-03: Improve docs
 - 2020-02-07: Fix example
 - 2020-11-16: Review content
+- 2020-12-11: Adjust content
