@@ -239,3 +239,4 @@
 - 2020-06-02: Expand section
 - 2020-02-14: Update guide
 - 2020-01-14: Refine text
+- 2020-12-15: Polish docs
