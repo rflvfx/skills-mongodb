@@ -73,3 +73,4 @@
 - 2020-03-10: Adjust content
 - 2020-11-05: Fix example
 - 2020-11-16: Add remark
+- 2020-12-15: Expand section
