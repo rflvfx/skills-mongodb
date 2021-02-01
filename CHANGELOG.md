@@ -15,3 +15,4 @@
 - 2019-09-01: Add change streams notes
 - 2020-01-28: Document ttl indexes
 - 2020-04-01: Review covered queries section
+- 2021-02-01: Review shard keys section
