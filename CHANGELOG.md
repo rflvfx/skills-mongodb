@@ -315,3 +315,4 @@
 - 2021-06-17: Fix example
 - 2021-04-14: Fix example
 - 2021-01-16: Clarify section
+- 2021-03-08: Improve docs
