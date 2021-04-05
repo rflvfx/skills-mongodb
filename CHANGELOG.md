@@ -296,3 +296,4 @@
 - 2021-06-27: Review content
 - 2021-11-12: Small fix
 - 2021-11-16: Adjust content
+- 2021-04-05: Improve docs
