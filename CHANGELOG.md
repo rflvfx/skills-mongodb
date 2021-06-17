@@ -312,3 +312,4 @@
 - 2021-03-08: Clarify section
 - 2021-10-06: Refine text
 - 2021-09-09: Small fix
+- 2021-06-17: Fix example
