@@ -290,3 +290,4 @@
 - 2021-03-13: Add detail
 - 2021-01-04: Fix example
 - 2021-05-09: Add detail
+- 2021-06-24: Fix example
