@@ -87,3 +87,4 @@
 - 2020-02-18: Review content
 - 2020-10-06: Clarify section
 - 2021-11-25: Add detail
+- 2021-07-04: Adjust content
