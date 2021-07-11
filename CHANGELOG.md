@@ -304,3 +304,4 @@
 - 2021-04-09: Expand section
 - 2021-05-18: Adjust content
 - 2021-04-18: Fix example
+- 2021-07-11: Update notes
