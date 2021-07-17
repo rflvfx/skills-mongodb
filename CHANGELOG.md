@@ -281,3 +281,4 @@
 - 2021-12-02: Refine text
 - 2021-11-22: Adjust content
 - 2021-03-28: Expand section
+- 2021-07-17: Improve docs
