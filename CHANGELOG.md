@@ -17,3 +17,4 @@
 - 2020-04-01: Review covered queries section
 - 2021-02-01: Review shard keys section
 - 2021-02-18: Expand bulk writes docs
+- 2021-07-20: Refine schema validation guide
