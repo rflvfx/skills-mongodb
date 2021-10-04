@@ -89,3 +89,4 @@
 - 2021-11-25: Add detail
 - 2021-07-04: Adjust content
 - 2021-06-20: Fix example
+- 2021-10-04: Polish docs
