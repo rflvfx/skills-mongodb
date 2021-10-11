@@ -91,3 +91,4 @@
 - 2021-06-20: Fix example
 - 2021-10-04: Polish docs
 - 2021-03-07: Minor update
+- 2021-10-11: Update guide
