@@ -308,3 +308,4 @@
 - 2021-09-15: Update guide
 - 2021-08-26: Clarify section
 - 2021-03-06: Add remark
+- 2021-11-18: Refine text
