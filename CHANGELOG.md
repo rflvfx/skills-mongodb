@@ -342,3 +342,4 @@
 - 2022-03-01: Typo fix
 - 2022-10-28: Improve docs
 - 2022-10-04: Add detail
+- 2022-01-09: Clarify section
