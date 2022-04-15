@@ -321,3 +321,4 @@
 - 2022-11-28: Adjust content
 - 2022-07-06: Refine text
 - 2022-10-01: Add note
+- 2022-04-15: Clarify section
