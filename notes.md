@@ -110,3 +110,4 @@
 - 2022-08-18: Adjust content
 - 2022-05-08: Typo fix
 - 2022-03-14: Update notes
+- 2022-05-14: Add detail
