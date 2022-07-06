@@ -319,3 +319,4 @@
 - 2021-03-07: Minor update
 - 2021-07-18: Add detail
 - 2022-11-28: Adjust content
+- 2022-07-06: Refine text
