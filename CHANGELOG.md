@@ -335,3 +335,4 @@
 - 2022-12-11: Small fix
 - 2022-10-05: Add note
 - 2022-05-25: Polish docs
+- 2022-07-21: Add note
