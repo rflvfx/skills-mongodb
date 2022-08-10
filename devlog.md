@@ -1,3 +1,4 @@
 - 2017-06-28 — Small fixes
 - 2019-04-10 — Refine exercises
 - 2022-06-03 — Small fixes
+- 2022-08-10 — Update notes
