@@ -107,3 +107,4 @@
 - 2022-08-13: Add note
 - 2022-05-03: Adjust content
 - 2022-01-12: Minor update
+- 2022-08-18: Adjust content
