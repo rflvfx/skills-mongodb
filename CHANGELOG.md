@@ -337,3 +337,4 @@
 - 2022-05-25: Polish docs
 - 2022-07-21: Add note
 - 2022-08-11: Adjust content
+- 2022-09-11: Add detail
