@@ -320,3 +320,4 @@
 - 2021-07-18: Add detail
 - 2022-11-28: Adjust content
 - 2022-07-06: Refine text
+- 2022-10-01: Add note
