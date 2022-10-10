@@ -19,3 +19,4 @@
 - 2021-02-18: Expand bulk writes docs
 - 2021-07-20: Refine schema validation guide
 - 2022-05-15: Add lookup pipelines notes
+- 2022-10-10: Review retryable writes section
