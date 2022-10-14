@@ -324,3 +324,4 @@
 - 2022-04-15: Clarify section
 - 2022-06-17: Review content
 - 2022-04-11: Update guide
+- 2022-10-14: Minor update
