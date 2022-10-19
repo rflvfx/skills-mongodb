@@ -20,3 +20,4 @@
 - 2021-07-20: Refine schema validation guide
 - 2022-05-15: Add lookup pipelines notes
 - 2022-10-10: Review retryable writes section
+- 2022-10-19: Add embedded documents examples
