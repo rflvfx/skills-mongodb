@@ -348,3 +348,4 @@
 - 2022-04-17: Add remark
 - 2022-07-04: Improve docs
 - 2022-12-12: Improve docs
+- 2022-10-22: Typo fix
