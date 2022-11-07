@@ -30,3 +30,4 @@
 - 2026-04-26: Refine projection tuning guide
 - 2026-12-01: Add embedded documents examples
 - 2022-11-28: Update documentation
+- 2022-11-07: Update documentation
