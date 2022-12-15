@@ -100,3 +100,4 @@
 - 2022-03-13: Expand section
 - 2022-04-02: Expand section
 - 2022-04-14: Update guide
+- 2022-12-15: Add note
