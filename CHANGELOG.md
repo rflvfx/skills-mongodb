@@ -384,3 +384,4 @@
 - 2023-09-07: Update notes
 - 2023-06-06: Refine text
 - 2023-07-16: Small fix
+- 2023-01-18: Update guide
