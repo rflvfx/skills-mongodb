@@ -392,3 +392,4 @@
 - 2023-11-28: Improve docs
 - 2023-11-17: Refine text
 - 2023-08-24: Polish docs
+- 2023-01-22: Fix example
