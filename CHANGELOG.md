@@ -21,3 +21,4 @@
 - 2022-05-15: Add lookup pipelines notes
 - 2022-10-10: Review retryable writes section
 - 2022-10-19: Add embedded documents examples
+- 2023-02-05: Add reference patterns notes
