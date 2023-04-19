@@ -114,3 +114,4 @@
 - 2022-04-14: Polish docs
 - 2023-01-08: Improve docs
 - 2023-11-24: Minor update
+- 2023-04-19: Fix example
