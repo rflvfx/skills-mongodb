@@ -22,3 +22,4 @@
 - 2022-10-10: Review retryable writes section
 - 2022-10-19: Add embedded documents examples
 - 2023-02-05: Add reference patterns notes
+- 2023-07-13: Review aggregation stages section
