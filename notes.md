@@ -122,3 +122,4 @@
 - 2023-05-09: Fix example
 - 2023-09-25: Add remark
 - 2023-04-18: Review content
+- 2023-08-09: Refine text
