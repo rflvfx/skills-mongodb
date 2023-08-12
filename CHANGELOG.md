@@ -377,3 +377,4 @@
 - 2023-03-18: Review content
 - 2023-10-07: Clarify section
 - 2023-04-27: Update guide
+- 2023-08-12: Refine text
