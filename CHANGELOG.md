@@ -391,3 +391,4 @@
 - 2023-02-04: Add remark
 - 2023-11-28: Improve docs
 - 2023-11-17: Refine text
+- 2023-08-24: Polish docs
