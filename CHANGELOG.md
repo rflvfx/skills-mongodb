@@ -368,3 +368,4 @@
 - 2023-11-08: Clarify section
 - 2023-08-03: Refine text
 - 2023-08-02: Add remark
+- 2023-09-23: Add note
