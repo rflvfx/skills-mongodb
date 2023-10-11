@@ -393,3 +393,4 @@
 - 2023-11-17: Refine text
 - 2023-08-24: Polish docs
 - 2023-01-22: Fix example
+- 2023-10-11: Typo fix
