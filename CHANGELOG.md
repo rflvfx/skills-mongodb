@@ -365,3 +365,4 @@
 - 2023-11-06: Add detail
 - 2023-02-22: Improve docs
 - 2023-11-26: Minor update
+- 2023-11-08: Clarify section
