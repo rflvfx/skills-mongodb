@@ -390,3 +390,4 @@
 - 2023-05-06: Small fix
 - 2023-02-04: Add remark
 - 2023-11-28: Improve docs
+- 2023-11-17: Refine text
