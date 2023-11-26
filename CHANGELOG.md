@@ -364,3 +364,4 @@
 - 2023-08-03: Fix example
 - 2023-11-06: Add detail
 - 2023-02-22: Improve docs
+- 2023-11-26: Minor update
