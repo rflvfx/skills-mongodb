@@ -6,3 +6,4 @@
 - 2023-11-08 — Fix examples
 - 2015-04-10 - Improve explanation
 - 2020-11-03 - Update study notes
+- 2023-12-05 - Add resource link
