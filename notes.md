@@ -128,3 +128,4 @@
 - 2024-06-02: Adjust content
 - 2024-03-02: Review content
 - 2024-08-13: Refine text
+- 2024-01-03: Refine text
