@@ -429,3 +429,4 @@
 - 2024-12-10: Improve docs
 - 2024-02-22: Typo fix
 - 2024-06-28: Minor update
+- 2024-04-25: Add note
