@@ -395,3 +395,4 @@
 - 2023-01-22: Fix example
 - 2023-10-11: Typo fix
 - 2024-12-26: Polish docs
+- 2024-05-02: Add note
