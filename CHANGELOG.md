@@ -402,3 +402,4 @@
 - 2024-09-23: Typo fix
 - 2024-10-22: Expand section
 - 2024-12-03: Update guide
+- 2024-05-27: Add note
