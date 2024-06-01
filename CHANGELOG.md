@@ -411,3 +411,4 @@
 - 2024-11-04: Fix example
 - 2024-11-08: Refine text
 - 2024-12-10: Refine text
+- 2024-06-01: Clarify section
