@@ -428,3 +428,4 @@
 - 2024-08-28: Small fix
 - 2024-12-10: Improve docs
 - 2024-02-22: Typo fix
+- 2024-06-28: Minor update
