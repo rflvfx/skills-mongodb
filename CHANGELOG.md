@@ -412,3 +412,4 @@
 - 2024-11-08: Refine text
 - 2024-12-10: Refine text
 - 2024-06-01: Clarify section
+- 2024-08-10: Clarify section
