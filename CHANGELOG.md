@@ -418,3 +418,4 @@
 - 2024-10-24: Small fix
 - 2024-10-18: Polish docs
 - 2024-07-16: Minor update
+- 2024-08-22: Typo fix
