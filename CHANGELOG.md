@@ -421,3 +421,4 @@
 - 2024-08-22: Typo fix
 - 2024-12-02: Refine text
 - 2024-12-26: Refine text
+- 2024-08-25: Add note
