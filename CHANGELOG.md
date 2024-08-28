@@ -425,3 +425,4 @@
 - 2024-05-15: Add detail
 - 2024-08-14: Small fix
 - 2024-03-13: Update notes
+- 2024-08-28: Small fix
