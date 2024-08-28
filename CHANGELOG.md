@@ -24,3 +24,4 @@
 - 2023-02-05: Add reference patterns notes
 - 2023-07-13: Review aggregation stages section
 - 2023-09-08: Add change streams notes
+- 2024-08-28: Improve write concerns coverage
