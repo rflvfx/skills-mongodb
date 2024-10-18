@@ -416,3 +416,4 @@
 - 2024-05-20: Review content
 - 2024-04-23: Fix example
 - 2024-10-24: Small fix
+- 2024-10-18: Polish docs
