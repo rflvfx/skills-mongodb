@@ -400,3 +400,4 @@
 - 2024-03-08: Typo fix
 - 2024-04-04: Fix example
 - 2024-09-23: Typo fix
+- 2024-10-22: Expand section
