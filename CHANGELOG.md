@@ -403,3 +403,4 @@
 - 2024-10-22: Expand section
 - 2024-12-03: Update guide
 - 2024-05-27: Add note
+- 2024-11-06: Adjust content
