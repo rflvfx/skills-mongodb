@@ -409,3 +409,4 @@
 - 2024-11-02: Improve docs
 - 2024-02-01: Add remark
 - 2024-11-04: Fix example
+- 2024-11-08: Refine text
