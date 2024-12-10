@@ -426,3 +426,4 @@
 - 2024-08-14: Small fix
 - 2024-03-13: Update notes
 - 2024-08-28: Small fix
+- 2024-12-10: Improve docs
