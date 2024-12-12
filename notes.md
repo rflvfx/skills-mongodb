@@ -138,3 +138,4 @@
 - 2024-04-04: Improve docs
 - 2024-12-28: Add remark
 - 2024-10-01: Clarify section
+- 2024-12-12: Add note
