@@ -405,3 +405,4 @@
 - 2024-05-27: Add note
 - 2024-11-06: Adjust content
 - 2024-03-09: Refine text
+- 2024-12-15: Expand section
