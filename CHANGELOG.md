@@ -467,3 +467,4 @@
 - 2025-09-03: Typo fix
 - 2025-05-10: Refine text
 - 2025-11-20: Update guide
+- 2025-02-08: Add detail
