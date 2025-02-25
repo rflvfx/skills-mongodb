@@ -148,3 +148,4 @@
 - 2025-03-11: Typo fix
 - 2025-11-17: Expand section
 - 2025-02-05: Typo fix
+- 2025-02-25: Update guide
