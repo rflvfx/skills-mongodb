@@ -463,3 +463,4 @@
 - 2025-11-10: Fix example
 - 2025-06-04: Polish docs
 - 2025-05-28: Clarify section
+- 2025-04-06: Typo fix
