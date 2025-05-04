@@ -155,3 +155,4 @@
 - 2025-07-28: Clarify section
 - 2025-06-07: Expand section
 - 2025-04-13: Review content
+- 2025-05-04: Add note
