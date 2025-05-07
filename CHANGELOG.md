@@ -443,3 +443,4 @@
 - 2025-12-07: Improve docs
 - 2025-03-13: Expand section
 - 2025-10-20: Small fix
+- 2025-05-07: Clarify section
