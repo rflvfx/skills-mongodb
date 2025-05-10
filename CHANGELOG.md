@@ -465,3 +465,4 @@
 - 2025-05-28: Clarify section
 - 2025-04-06: Typo fix
 - 2025-09-03: Typo fix
+- 2025-05-10: Refine text
