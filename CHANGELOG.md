@@ -473,3 +473,4 @@
 - 2025-12-03: Expand section
 - 2025-08-21: Minor update
 - 2025-12-01: Update notes
+- 2025-05-17: Polish docs
