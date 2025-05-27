@@ -450,3 +450,4 @@
 - 2025-11-28: Fix example
 - 2025-01-03: Add remark
 - 2025-06-06: Update notes
+- 2025-05-27: Polish docs
