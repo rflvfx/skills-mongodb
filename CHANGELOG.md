@@ -462,3 +462,4 @@
 - 2025-01-19: Review content
 - 2025-11-10: Fix example
 - 2025-06-04: Polish docs
+- 2025-05-28: Clarify section
