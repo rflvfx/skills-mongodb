@@ -449,3 +449,4 @@
 - 2025-12-15: Typo fix
 - 2025-11-28: Fix example
 - 2025-01-03: Add remark
+- 2025-06-06: Update notes
