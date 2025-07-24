@@ -143,3 +143,4 @@
 - 2024-07-10: Fix example
 - 2025-08-03: Add remark
 - 2025-10-25: Update notes
+- 2025-07-24: Clarify section
