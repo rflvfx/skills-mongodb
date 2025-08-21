@@ -471,3 +471,4 @@
 - 2025-06-08: Typo fix
 - 2025-09-16: Small fix
 - 2025-12-03: Expand section
+- 2025-08-21: Minor update
