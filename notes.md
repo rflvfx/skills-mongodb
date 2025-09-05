@@ -157,3 +157,4 @@
 - 2025-04-13: Review content
 - 2025-05-04: Add note
 - 2025-04-18: Add remark
+- 2025-09-05: Adjust content
