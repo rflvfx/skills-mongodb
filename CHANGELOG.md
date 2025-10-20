@@ -442,3 +442,4 @@
 - 2025-04-05: Expand section
 - 2025-12-07: Improve docs
 - 2025-03-13: Expand section
+- 2025-10-20: Small fix
