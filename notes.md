@@ -151,3 +151,4 @@
 - 2025-02-25: Update guide
 - 2025-06-02: Review content
 - 2025-06-27: Add detail
+- 2025-10-28: Add remark
