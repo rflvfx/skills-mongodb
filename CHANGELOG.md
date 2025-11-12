@@ -26,3 +26,4 @@
 - 2023-09-08: Add change streams notes
 - 2024-08-28: Improve write concerns coverage
 - 2025-08-25: Update bulk writes reference
+- 2025-11-12: Review text indexes section
