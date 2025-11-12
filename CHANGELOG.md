@@ -454,3 +454,4 @@
 - 2025-06-21: Add detail
 - 2025-02-03: Clarify section
 - 2025-11-09: Add detail
+- 2025-11-12: Review content
