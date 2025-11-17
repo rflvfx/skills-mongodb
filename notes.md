@@ -146,3 +146,4 @@
 - 2025-07-24: Clarify section
 - 2025-05-14: Add note
 - 2025-03-11: Typo fix
+- 2025-11-17: Expand section
