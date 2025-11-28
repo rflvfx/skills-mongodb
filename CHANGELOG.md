@@ -447,3 +447,4 @@
 - 2025-03-10: Small fix
 - 2025-12-16: Expand section
 - 2025-12-15: Typo fix
+- 2025-11-28: Fix example
