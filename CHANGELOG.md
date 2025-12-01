@@ -472,3 +472,4 @@
 - 2025-09-16: Small fix
 - 2025-12-03: Expand section
 - 2025-08-21: Minor update
+- 2025-12-01: Update notes
