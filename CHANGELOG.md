@@ -470,3 +470,4 @@
 - 2025-02-08: Add detail
 - 2025-06-08: Typo fix
 - 2025-09-16: Small fix
+- 2025-12-03: Expand section
