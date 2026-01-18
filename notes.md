@@ -161,3 +161,4 @@
 - 2026-06-02: Expand section
 - 2026-09-19: Update guide
 - 2026-10-17: Improve docs
+- 2026-01-18: Improve docs
