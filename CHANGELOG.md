@@ -499,3 +499,4 @@
 - 2026-04-19: Fix example
 - 2026-07-27: Refine text
 - 2026-07-04: Add remark
+- 2026-04-18: Add detail
