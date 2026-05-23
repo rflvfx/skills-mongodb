@@ -504,3 +504,4 @@
 - 2026-08-15: Polish docs
 - 2026-05-15: Improve docs
 - 2026-10-21: Adjust content
+- 2026-05-23: Update notes
