@@ -488,3 +488,4 @@
 - 2026-01-12: Add remark
 - 2026-02-22: Small fix
 - 2026-09-27: Add remark
+- 2026-06-17: Expand section
