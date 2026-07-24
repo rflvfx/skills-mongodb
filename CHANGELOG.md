@@ -479,3 +479,4 @@
 - 2026-02-07: Refine text
 - 2026-08-23: Small fix
 - 2026-09-02: Minor update
+- 2026-07-24: Update guide
