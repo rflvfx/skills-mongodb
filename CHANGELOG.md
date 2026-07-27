@@ -497,3 +497,4 @@
 - 2026-11-27: Refine text
 - 2026-08-09: Minor update
 - 2026-04-19: Fix example
+- 2026-07-27: Refine text
