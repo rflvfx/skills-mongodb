@@ -491,3 +491,4 @@
 - 2026-06-17: Expand section
 - 2026-11-07: Polish docs
 - 2026-08-15: Update notes
+- 2026-08-10: Add remark
