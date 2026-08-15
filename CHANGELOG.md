@@ -501,3 +501,4 @@
 - 2026-07-04: Add remark
 - 2026-04-18: Add detail
 - 2026-03-08: Small fix
+- 2026-08-15: Polish docs
