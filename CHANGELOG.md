@@ -490,3 +490,4 @@
 - 2026-09-27: Add remark
 - 2026-06-17: Expand section
 - 2026-11-07: Polish docs
+- 2026-08-15: Update notes
