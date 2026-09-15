@@ -15,5 +15,6 @@ app.post('/users', async (req, res) => {
 (async () => {
   await client.connect();
   db = client.db('app');
-  app.listen(3000, () => console.log('MongoDB API em http://localhost:3000'));
+  const PORT = process.env.PORT || 3000;
+  app.listen(PORT, () => console.log(`MongoDB API em http://localhost:${PORT}`));
 })();
