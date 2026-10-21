@@ -503,3 +503,4 @@
 - 2026-03-08: Small fix
 - 2026-08-15: Polish docs
 - 2026-05-15: Improve docs
+- 2026-10-21: Adjust content
