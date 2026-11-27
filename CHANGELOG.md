@@ -494,3 +494,4 @@
 - 2026-08-10: Add remark
 - 2026-03-22: Add note
 - 2026-12-01: Improve docs
+- 2026-11-27: Refine text
