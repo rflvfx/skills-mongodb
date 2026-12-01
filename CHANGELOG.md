@@ -28,3 +28,4 @@
 - 2025-08-25: Update bulk writes reference
 - 2025-11-12: Review text indexes section
 - 2026-04-26: Refine projection tuning guide
+- 2026-12-01: Add embedded documents examples
